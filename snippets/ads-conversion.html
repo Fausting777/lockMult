@@ -1,0 +1,9 @@
+<!-- Google Ads conversion helper — вставить перед </body> -->
+<script>
+  function fireAdsConversion(label){
+    if (typeof gtag === 'function'){
+      gtag('event','conversion',{send_to:'AW-XXXXXXXXX/'+label}); /* ← твой AW ID */
+    }
+  }
+</script>
+<!-- Пример вызова: onclick="fireAdsConversion('call_click')" -->
