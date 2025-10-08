@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Andreas K.",
+    "rating": 5,
+    "text_de": "Sehr schnell und fairer Preis. Tür in 5 Minuten offen.",
+    "text_ru": "Очень быстро и честная цена. Дверь открыли за 5 минут."
+  },
+  {
+    "name": "Svetlana M.",
+    "rating": 5,
+    "text_de": "Nachts angerufen, waren in 25 Min. da. Danke!",
+    "text_ru": "Звонили ночью, приехали за 25 минут. Спасибо!"
+  },
+  {
+    "name": "Oleg P.",
+    "rating": 4,
+    "text_de": "Professionell, ohne Schaden geöffnet.",
+    "text_ru": "Профессионально, без повреждений."
+  }
+]
